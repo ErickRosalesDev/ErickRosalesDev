@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Me presento, soy Erick Rosales</h1>
-  <img src="https://drive.google.com/uc?export=view&id=1YKMLQqnOPcSlKHgufS5SW0BnEXoPv11z" alt="Banner de presentación de Erick Rosales" width="600"/>
+  <img src="https://drive.google.com/uc?export=view&id=1YKMLQqnOPcSlKHgufS5SW0BnEXoPv11z" alt="Banner de presentación de Erick Rosales"/>
 </div>
 
 ## Sobre mí
